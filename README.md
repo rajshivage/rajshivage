@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajshivage
+- 👋 Hi, I’m @Raj
 - 👀 I’m interested in DevOps, Kubernetes, Containers, Python, Terraform, Ansible, AWS, Linux and 💞️ Travelling 💞️
 - 🌱 I’m currently learning GitOps
 - 💞️ I’m looking to collaborate on DevOps, Kubernetes, Containers, Python, Terraform, Ansible
