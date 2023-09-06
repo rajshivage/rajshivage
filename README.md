@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj
-- 👀 I’m interested in DevOps, Kubernetes, Containers, Python, Terraform, Ansible, AWS, Linux and 💞️ Travelling 💞️
+- 👀 I’m interested in DevOps, Kubernetes, AWS, Terraform, Python, Ansible, Linux and 💞️ Travelling 💞️
 - 🌱 I’m currently learning GitOps
 - 💞️ I’m looking to collaborate on DevOps, Kubernetes, Containers, Python, Terraform, Ansible
 - 📫 How to reach me rajshivage@gmail.com or https://www.linkedin.com/in/raj-shivage-1524b419/
